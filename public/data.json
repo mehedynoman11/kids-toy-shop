@@ -1,0 +1,153 @@
+
+[
+  {
+    "id": 1,
+    "title": "Cute Teddy Bear",
+    "image": "https://i.pinimg.com/736x/7d/ae/09/7dae094bdb5886891658f2fe0f588d87.jpg",
+    "price": 850,
+    "rating": 4.8,
+    "sale": 15,
+    "badge": "Best Seller",
+    "category": "stuffed animals toy"
+  },
+  {
+    "id": 2,
+    "title": "Fluffy Bunny Plush",
+    "image": "https://i.pinimg.com/736x/2f/97/81/2f9781af6032e18839e97fa2cee057db.jpg",
+    "price": 650,
+    "rating": 4.6,
+    "sale": 10,
+    "badge": "Popular",
+    "category": "stuffed animals toy"
+  },
+  {
+    "id": 3,
+    "title": "Toy Racing Car",
+    "image": "https://i.pinimg.com/736x/d1/68/17/d16817398b3b4ca045e2052ecf1ed479.jpg",
+    "price": 550,
+    "rating": 4.5,
+    "sale": 20,
+    "badge": "Hot Deal",
+    "category": "vehicle toy"
+  },
+  {
+    "id": 4,
+    "title": "Remote Control Monster Truck",
+    "image": "https://i.pinimg.com/736x/a2/70/82/a2708225a8dd1a82fc84bc3ce5b5ae65.jpg",
+    "price": 1800,
+    "rating": 4.9,
+    "sale": 12,
+    "badge": "Trending",
+    "category": "vehicle toy"
+  },
+  {
+    "id": 5,
+    "title": "Toy Airplane",
+    "image": "https://i.pinimg.com/736x/3f/79/c9/3f79c914c690378b7a3def1c8b76ec11.jpg",
+    "price": 950,
+    "rating": 4.3,
+    "sale": 8,
+    "badge": "New Arrival",
+    "category": "vehicle toy"
+  },
+  {
+    "id": 6,
+    "title": "Colorful Building Blocks",
+    "image": "https://i.pinimg.com/1200x/66/ba/47/66ba4774844a8dce5ce590eb2e6f3856.jpg",
+    "price": 1200,
+    "rating": 4.8,
+    "sale": 15,
+    "badge": "Best Seller",
+    "category": "building toy"
+  },
+  {
+    "id": 7,
+    "title": "Magnetic Building Tiles",
+    "image": "https://i.pinimg.com/1200x/52/63/60/5263604ab15dd9dc391ab9b89f51a839.jpg",
+    "price": 2200,
+    "rating": 4.9,
+    "sale": 10,
+    "badge": "Top Rated",
+    "category": "building toy"
+  },
+  {
+    "id": 8,
+    "title": "Kids Art and Craft Kit",
+    "image": "https://i.pinimg.com/1200x/b7/d8/b2/b7d8b2fc9a942c1dbe9c7a66c4340153.jpg",
+    "price": 750,
+    "rating": 4.6,
+    "sale": 10,
+    "badge": "Creative Pick",
+    "category": "art&craft"
+  },
+  {
+    "id": 9,
+    "title": "DIY Bracelet Making Set",
+    "image": "https://i.pinimg.com/1200x/ce/81/aa/ce81aa5fdbf679e86e5c577c50570cfe.jpg",
+    "price": 600,
+    "rating": 4.4,
+    "sale": 5,
+    "badge": "New Arrival",
+    "category": "art&craft"
+  },
+  {
+    "id": 10,
+    "title": "Wooden Animal Puzzle",
+    "image": "https://i.pinimg.com/736x/0e/75/62/0e756206f0f24c590abb279504cf9b29.jpg",
+    "price": 450,
+    "rating": 4.7,
+    "sale": 12,
+    "badge": "Popular",
+    "category": "puzzle & games"
+  },
+  {
+    "id": 11,
+    "title": "Family Board Game",
+    "image": "https://i.pinimg.com/736x/ee/b2/fa/eeb2fabababff04191e746e1d71bc183.jpg",
+    "price": 1100,
+    "rating": 4.8,
+    "sale": 15,
+    "badge": "Best Seller",
+    "category": "puzzle & games"
+  },
+  {
+    "id": 12,
+    "title": "3D Puzzle Cube",
+    "image": "https://i.pinimg.com/1200x/69/7b/80/697b809f9098635cdcd3a87b052748a7.jpg",
+    "price": 350,
+    "rating": 4.3,
+    "sale": 0,
+    "badge": "Featured",
+    "category": "puzzle & games"
+  },
+  {
+    "id": 13,
+    "title": "Kids Science Experiment Kit",
+    "image": "https://i.pinimg.com/1200x/7c/d8/28/7cd82888c9e01541f368fa4e485f70f9.jpg",
+    "price": 1600,
+    "rating": 4.9,
+    "sale": 10,
+    "badge": "Top Rated",
+    "category": "stem toy"
+  },
+  {
+    "id": 14,
+    "title": "Beginner Robot Building Kit",
+    "image": "https://i.pinimg.com/1200x/8f/fd/25/8ffd2586bcc18a22af06785eb52f85a9.jpg",
+    "price": 2500,
+    "rating": 4.7,
+    "sale": 15,
+    "badge": "Trending",
+    "category": "stem toy"
+  },
+  {
+    "id": 15,
+    "title": "Solar System Model Kit",
+    "image": "https://i.pinimg.com/736x/ab/d9/d5/abd9d5a9635a42eca8fbc5cd79e40bf9.jpg",
+    "price": 1350,
+    "rating": 4.6,
+    "sale": 8,
+    "badge": "Educational Pick",
+    "category": "stem toy"
+  }
+]
